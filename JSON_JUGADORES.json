@@ -1,0 +1,32 @@
+[
+  {
+    "Nombre": "Jordan",
+    "Altura": "1,98",
+    "Peso": 103,
+    "Raza": "Negro"
+  },
+  {
+    "Nombre": "Ricky",
+    "Altura": "1,88",
+    "Peso": 92,
+    "Raza": "Europeo"
+  },
+  {
+    "Nombre": "Rudy",
+    "Altura": "1,96",
+    "Peso": 98,
+    "Raza": "Europeo"
+  },
+  {
+    "Nombre": "Gasol",
+    "Altura": "2,16",
+    "Peso": 115,
+    "Raza": "Europeo"
+  },
+  {
+    "Nombre": "Ming",
+    "Altura": "2,29",
+    "Peso": 141,
+    "Raza": "Chino"
+  }
+]
