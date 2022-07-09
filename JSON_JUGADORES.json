@@ -1,31 +1,31 @@
 [
   {
     "Nombre": "Jordan",
-    "Altura": "1.98",
+    "Altura": 198,
     "Peso": 103,
     "Raza": "Negro"
   },
   {
     "Nombre": "Ricky",
-    "Altura": "1.88",
+    "Altura": 188,
     "Peso": 92,
     "Raza": "Europeo"
   },
   {
     "Nombre": "Rudy",
-    "Altura": "1.96",
+    "Altura": 196,
     "Peso": 98,
     "Raza": "Europeo"
   },
   {
     "Nombre": "Gasol",
-    "Altura": "2.16",
+    "Altura": 216,
     "Peso": 115,
     "Raza": "Europeo"
   },
   {
     "Nombre": "Ming",
-    "Altura": "2.29",
+    "Altura": 229,
     "Peso": 141,
     "Raza": "Chino"
   }
