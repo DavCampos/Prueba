@@ -1,0 +1,30 @@
+[
+  {
+    "Jugador": "Cristiano",
+    "Goles": 25
+  },
+  {
+    "Jugador": "Messi",
+    "Goles": 1
+  },
+  {
+    "Jugador": "Jorginho",
+    "Goles": 50
+  },
+  {
+    "Jugador": "Naty",
+    "Goles": 30
+  },
+  {
+    "Jugador": "Davide",
+    "Goles": 1
+  },
+  {
+    "Jugador": "Gallastegui",
+    "Goles": 0
+  },
+  {
+    "Jugador": "Fary",
+    "Goles": 7
+  }
+]
