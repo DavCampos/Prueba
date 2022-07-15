@@ -1,0 +1,32 @@
+[
+  {
+    "NOMBRE": "DAVID",
+    "NOTA": 10,
+    "RANKING": 1
+  },
+  {
+    "NOMBRE": "DANIEL",
+    "NOTA": 5,
+    "RANKING": 5
+  },
+  {
+    "NOMBRE": "NATALIA",
+    "NOTA": 8,
+    "RANKING": 3
+  },
+  {
+    "NOMBRE": "JORGE",
+    "NOTA": 9,
+    "RANKING": 2
+  },
+  {
+    "NOMBRE": "LUISMI",
+    "NOTA": 6,
+    "RANKING": 4
+  },
+  {
+    "NOMBRE": "XIOMARA",
+    "NOTA": 2,
+    "RANKING": 6
+  }
+]
