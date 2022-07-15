@@ -1,0 +1,47 @@
+[
+  {
+    "Alumno": "DAVID",
+    "Nota": 10,
+    "Ranking": 1
+  },
+  {
+    "Alumno": "DANIEL",
+    "Nota": 9,
+    "Ranking": 20
+  },
+  {
+    "Alumno": "NATALIA",
+    "Nota": 8,
+    "Ranking": 90
+  },
+  {
+    "Alumno": "JORGE",
+    "Nota": 7,
+    "Ranking": 150
+  },
+  {
+    "Alumno": "LUISMI",
+    "Nota": 6,
+    "Ranking": 200
+  },
+  {
+    "Alumno": "XIOMARA",
+    "Nota": 5,
+    "Ranking": 300
+  },
+  {
+    "Alumno": "PEPE",
+    "Nota": 4,
+    "Ranking": 350
+  },
+  {
+    "Alumno": "JUAN",
+    "Nota": 3,
+    "Ranking": 400
+  },
+  {
+    "Alumno": "LOLITA",
+    "Nota": 2,
+    "Ranking": 450
+  }
+]
