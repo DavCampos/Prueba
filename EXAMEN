@@ -1,46 +1,46 @@
 [
   {
-    "Alumno": "DAVID",
+    "Alumno": "David",
     "Nota": 10,
     "Ranking": 1
   },
   {
-    "Alumno": "DANIEL",
+    "Alumno": "Daniel",
     "Nota": 9,
     "Ranking": 20
   },
   {
-    "Alumno": "NATALIA",
+    "Alumno": "Natalia",
     "Nota": 8,
     "Ranking": 90
   },
   {
-    "Alumno": "JORGE",
+    "Alumno": "Jorge",
     "Nota": 7,
     "Ranking": 150
   },
   {
-    "Alumno": "LUISMI",
+    "Alumno": "Luismi",
     "Nota": 6,
     "Ranking": 200
   },
   {
-    "Alumno": "XIOMARA",
+    "Alumno": "Xiomara",
     "Nota": 5,
     "Ranking": 300
   },
   {
-    "Alumno": "PEPE",
+    "Alumno": "Pepe",
     "Nota": 4,
     "Ranking": 350
   },
   {
-    "Alumno": "JUAN",
+    "Alumno": "Juan",
     "Nota": 3,
     "Ranking": 400
   },
   {
-    "Alumno": "LOLITA",
+    "Alumno": "Lolita",
     "Nota": 2,
     "Ranking": 450
   }
